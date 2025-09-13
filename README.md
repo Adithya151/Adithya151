@@ -1,10 +1,9 @@
 [![MasterHead](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)](https://github.com/adithya151)
 
-
 <h1 align="center">Hi 👋, I'm Adithya</h1>  
 <h3 align="center">AI/ML Engineer | Django Developer | Data Enthusiast</h3>  
 
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">  
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">  
 
 ---
 
@@ -43,8 +42,14 @@
 ---
 
 ### 📊 GitHub Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithya151&show_icons=true&locale=en&layout=compact" alt="adithya151" /></p>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adithya151&show_icons=true&locale=en&layout=compact" alt="adithya151" />
+</p>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithya151&show_icons=true&locale=en" alt="adithya151" /></p>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adithya151&show_icons=true&locale=en" alt="adithya151" />
+</p>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya151&" alt="adithya151" /></p>  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithya151&" alt="adithya151" />
+</p>  
