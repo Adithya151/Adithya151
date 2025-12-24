@@ -1,83 +1,27 @@
 # 👨‍💻 Hi, I'm Adithya Poojari
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=AI%20/%20ML%20Engineer&fontSize=48&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=180&section=header&text=AI%20/%20ML%20Engineer&fontSize=44&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
 ---
 
-## 🧠 Professional Summary
+## 💫 About Me
 
-I am an **AI & Machine Learning undergraduate** at **M.S. Ramaiah University of Applied Sciences** with a CGPA of **8.35/10**.  
-I specialize in building **end-to-end intelligent systems**, ranging from **automated data processing platforms** to **NLP-driven applications**.
+I am a **results-driven AI/ML Engineer** with hands-on experience in building  
+**end-to-end intelligent applications** using **Python, Machine Learning, NLP, and Django**.
 
-I enjoy bridging the gap between **machine learning models** and **scalable web applications** using **Django** and **Streamlit**, with a strong focus on real-world usability and performance.
+I enjoy transforming **real-world problems into scalable AI solutions**, with a strong focus on  
+**data-driven decision-making, automation, and sustainability**.
 
----
-
-## 🛠️ Technical Arsenal
-
-| Category | Skills & Tools |
-|-------|---------------|
-| **Languages** | Python, SQL, JavaScript |
-| **AI / Machine Learning** | Scikit-learn, Pandas, TensorFlow, Hugging Face |
-| **Web Development** | Django, Streamlit, REST APIs, MySQL |
-| **Data Visualization** | Power BI, Matplotlib, Seaborn |
+- 🔹 Strong foundation in **Machine Learning, NLP, and Data Analytics**
+- 🔹 Experience in **full-stack AI systems (Model → Backend → UI)**
+- 🔹 Comfortable with **data pipelines, REST APIs, and dashboards**
+- 🔹 Passionate about **intelligent systems & applied AI**
 
 ---
 
-## 📂 Featured Projects
-
-### 🔹 AutoCleanX  
-**Tech:** Python · Django · Pandas  
-- Built an automated data cleaning platform for CSV and Excel datasets  
-- Handles missing values, outliers, normalization, and scaling  
-- Designed for non-technical users to preprocess data efficiently  
-
-### 🔹 Next AI – Smart HR Management System  
-**Tech:** Django · MySQL · Hugging Face  
-- Integrated **DistilBERT** for an AI-powered HR FAQ chatbot  
-- Automated resume screening using NLP-based similarity matching  
-- Improved candidate shortlisting accuracy and speed  
-
-### 🔹 ToneCraft – Email Tone Corrector  
-**Tech:** NLP · Scikit-learn  
-- Classifies email tone (formal, friendly, rude, neutral)  
-- Suggests tone-corrected rewrites using NLP techniques  
-- Useful for professional communication enhancement  
-
-### 🔹 Digital Carbon Footprint (DCF) Tracker  
-**Tech:** Django · MySQL  
-- Developed a web application to monitor digital carbon emissions  
-- Visual dashboards for usage-based emission insights  
-- Supports sustainability-focused decision-making  
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithya151&show_icons=true&theme=nord&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya151&layout=compact&theme=nord&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=adithya151&theme=nord&hide_border=true" width="90%" />
-</p>
-
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🏅 **Naukri Campus Young Turks** – 95.67 percentile (Ranked among top candidates nationwide)  
-- 📜 **Data Analysis using Python** – Simplilearn  
-- 📜 **SQL Certification** – HackerRank  
-- 📜 **Software Engineering Internship Certification** – HackerRank  
-
----
-
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/adithya-poojari">
@@ -86,13 +30,63 @@ I enjoy bridging the gap between **machine learning models** and **scalable web 
   <a href="mailto:adithyapoojari967@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/adithya_._poojari">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 🔹 Programming & Web
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🔹 Backend & Databases
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO--REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-298729?style=for-the-badge&logo=gunicorn&logoColor=white)
+
+### 🔹 AI / Machine Learning
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🔹 Data & Tools
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adithya151&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya151&layout=compact&theme=dark&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adithya151&theme=dark&hide_border=true" width="90%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=adithya151&icon=0&color=0" />
 </p>
 
 ---
 
 ## 🧩 Fun Fact
 
-> When I'm not coding, I play **university-level cricket** or read about **Indian history and literature**.
+> When I'm not coding, I play **university-level cricket** or explore **Indian history and literature**.
