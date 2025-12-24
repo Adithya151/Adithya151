@@ -57,13 +57,14 @@ I enjoy bridging the gap between **machine learning models** and **scalable web 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithya151&show_icons=true&theme=nord" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya151&layout=compact&theme=nord" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adithya151&show_icons=true&theme=nord&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya151&layout=compact&theme=nord&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithya151&theme=nord" width="90%" />
+  <img src="https://streak-stats.demolab.com?user=adithya151&theme=nord&hide_border=true" width="90%" />
 </p>
+
 
 ---
 
