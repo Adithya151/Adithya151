@@ -1,62 +1,94 @@
-[![MasterHead](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)](https://github.com/adithya151)
+<h1 align="center">Hi 👋, I'm Adithya Poojari</h1>
+<h3 align="center">AI / ML Engineer • Django Developer • Data Enthusiast</h3>
 
-<h1 align="center">Hi 👋, I'm Adithya</h1>
-<h3 align="center">AI/ML Engineer | Django Developer | Data Enthusiast</h3>
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
----
-
-### 👨‍💻 About Me
-- 🚀 Passionate about building **AI/ML-powered applications** with real-world impact.  
-- 🧠 Proficient in **Machine Learning, NLP, Django, and Data Analytics**.  
-- 🖥️ Experienced in developing **end-to-end intelligent systems**:
-  - 🌿 **Digital Carbon Footprint Tracker (Django + ML)** – Predicts and visualizes CO₂ emissions.  
-  - 📰 **News Classification App (Streamlit + Hugging Face)** – Categorizes news into 20 topics using NLP.  
-- 📊 Skilled in **Python, SQL, Power BI, and Excel** for data-driven insights.  
-- 🎯 Goal: To create **AI solutions** that enhance sustainability and decision-making.
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/adithya-poojari" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-<a href="https://instagram.com/adithya_._poojari" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-</a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
 <p align="center">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="45" height="45"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="45" height="45"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/></a>
+  <a href="https://linkedin.com/in/adithya-poojari">
+    <img src="https://img.shields.io/badge/LinkedIn-Adithya%20Poojari-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="https://github.com/adithya151">
+    <img src="https://img.shields.io/badge/GitHub-adithya151-black?style=flat&logo=github">
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail">
+  </a>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 👨‍💻 About Me
+
+I am a **results-driven AI/ML Engineer** with hands-on experience in building **end-to-end intelligent applications** using **Python, Machine Learning, NLP, and Django**.  
+I enjoy transforming **real-world problems into scalable AI solutions** with a strong focus on **data-driven decision-making**.
+
+- 🔹 Strong foundation in **Machine Learning, NLP, and Data Analytics**
+- 🔹 Experience in **full-stack AI systems (Model → Backend → UI)**
+- 🔹 Comfortable working with **data pipelines, APIs, and dashboards**
+- 🔹 Passionate about **sustainability, automation, and intelligent systems**
+
+---
+
+## 🚀 Featured Projects
+
+### 🌿 Digital Carbon Footprint Tracker
+**Tech:** Django · Machine Learning · Python · SQL  
+- Predicts individual and organizational CO₂ emissions  
+- Interactive dashboards for emission visualization  
+- Designed to support sustainability-focused decisions  
+
+### 📰 News Classification System
+**Tech:** NLP · Hugging Face · Streamlit · Python  
+- Classifies news articles into **20+ categories**  
+- Uses transformer-based NLP models  
+- Lightweight UI for real-time predictions  
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Data
+- **Python**, SQL  
+- Pandas, NumPy  
+- Power BI, Excel  
+
+### Machine Learning & AI
+- Scikit-learn  
+- NLP (Text Classification, Embeddings)  
+- Model Training & Evaluation  
+
+### Web & Backend
+- Django  
+- REST APIs  
+- HTML, CSS  
+
+### Tools & Platforms
+- Git & GitHub  
+- Linux  
+- Jupyter Notebook  
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithya151&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adithya151&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya151&layout=compact&theme=tokyonight" height="165"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya151&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithya151&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithya151&theme=tokyonight"/>
 </p>
 
 ---
 
-### 🧩 Fun Fact
-> "I love solving real-world problems through data and intelligent systems — one algorithm at a time."
+## 🎯 Career Goal
+
+To work as an **AI/ML Engineer or Intelligent Systems Developer**, where I can:
+- Build impactful AI products  
+- Work on real-world data problems  
+- Continuously learn and grow in applied AI  
+
+---
+
+## 💡 Philosophy
+
+> *“Solve real-world problems using data, logic, and intelligent systems — one model at a time.”*
